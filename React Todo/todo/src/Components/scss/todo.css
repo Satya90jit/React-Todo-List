@@ -1,0 +1,35 @@
+.editbtn {
+  background-color: green;
+  color: #fff;
+  margin: 0 10px;
+}
+
+.deletebtn {
+  background-color: red;
+  color: #fff;
+}
+
+.eachItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  width: 500px;
+  margin: 10px 0;
+  border-radius: 5px;
+  padding: 0 20px;
+  height: 35px;
+}
+
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fff;
+  width: 500px;
+  margin: 10px 0;
+  border-radius: 5px;
+  padding: 0 20px;
+  height: 35px;
+  width: 170px;
+}/*# sourceMappingURL=todo.css.map */

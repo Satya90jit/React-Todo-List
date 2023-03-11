@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(126, 223, 223);
+  font-size: 2rem;
+  margin: 3rem 0;
+  font-weight: 400;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h3 {
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#removeAll {
+  background-color: red;
+  color: #fff;
+}
+
+.add {
+  background-color: green;
+  color: #fff;
+}
+
+form input,
+form button {
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 5px;
+  margin-top: 2rem;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: cadetblue;
+  padding: 3rem;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px #8f8f8f;
+}
+
+.btn {
+  padding: 0.4rem 1.3rem;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+}/*# sourceMappingURL=main.css.map */
